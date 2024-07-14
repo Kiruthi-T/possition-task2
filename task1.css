@@ -1,0 +1,47 @@
+#rel{
+    position: relative;
+    border: 2px solid rgb(231, 154, 37);
+    height: 500px;
+    width: 500px;
+    margin-top: 50vh;
+    margin-left: 70vh;
+   
+   
+}
+.imgaa{
+    position: absolute;
+}
+.i1{
+    
+    top: 0;
+    left: 20px;
+}
+.i2{
+    
+    top: 0;
+    right: 20px; 
+}
+.i3{
+    
+    bottom: 0;
+    right: 20px;
+}
+.i4{
+   
+    bottom: 0;
+    left: 20px; 
+    
+}
+.i5{
+    top: 40%;
+    bottom: 40%;
+    right: 40%;
+    left: 40%;
+}
+#para{
+    padding: 100vh;
+}
+ #stick{
+    position: sticky;
+    top: 0;
+ }
